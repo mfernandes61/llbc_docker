@@ -43,3 +43,4 @@ RUN echo "export PS1=\"\[$(tput bold)\]\[\033[38;5;75m\]\u\[$(tput sgr0)\]\[$(tp
 
 # some example directories for the tutorial
 RUN mkdir a_directory another_directory
+#
